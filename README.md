@@ -37,15 +37,6 @@ Hello! My name is Gandhi Suastika. I am deeply passionate about the advancement 
 ***
 ###
 
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gandeeee/Gandeeee/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gandeeee/Gandeeee/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Gandeeee/Gandeeee/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gandeeee/Gandeeee/output/snake.svg" alt="Snake Animation" />
 </p>
