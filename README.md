@@ -37,6 +37,3 @@ Hello! My name is Gandhi Suastika. I am deeply passionate about the advancement 
 ***
 ###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gandeeee/Gandeeee/output/snake.svg" alt="Snake Animation" />
-</p>
